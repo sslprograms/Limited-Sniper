@@ -1,0 +1,21 @@
+{
+    "settings":{
+        "assetids":[
+            0,
+            0
+        ],
+
+        "sniperSettings":{
+            "maxPrice":35,
+            "lowPrice":0
+        },
+
+        "blockedSellersIds":[
+            0
+        ],
+
+        "cookie":"",
+        "proxies":false,
+        "webhook":""
+    }
+}
